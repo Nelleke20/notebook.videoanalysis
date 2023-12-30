@@ -1,13 +1,13 @@
 # notebook.videoanalysis
 
 ### Introduction
-wip - analyzing video data
+WIP - trying to detect and track objects on an aerial video
 
 #### Starting date
-..
+dec 2023
 
 #### Context
-WIP - trying to detect and track objects on an aerial video
+WIP - video is from a soccer game and I aim to detect the players and the ball
 
 #### Results
 
@@ -30,3 +30,4 @@ detecting contours within the video:
 
 
 #### Tech and Tools
+OpenCV

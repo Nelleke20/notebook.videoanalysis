@@ -14,29 +14,26 @@ WIP - decided to do some analysis with a tennis match as well
 
 basic frame of the video:
 <p align="center" width="100%">
-    <img width="75%" src="img/frame.png">
+    <img width="75%" src="img/start_frame.png">
 </p>
 
-masking frame of the video:
-<p align="center" width="100%">
-    <img width="75%" src="img/masked.png">
-</p>
-
-detecting contours within the video:
-<p align="center" width="100%">
-    <img width="75%" src="img/contours.png">
-</p>
-
-tennis match > variety in treshold of the masking (image 1) and the impact on the detection (image 2)
+a variety in treshold of the masking
 <p align="center" width="100%">
     <img width="75%" src="img/mask_various_tresholds.png">
 </p>
+
+gives a variety of detection 
 <p align="center" width="100%">
     <img width="75%" src="img/frame_detection_with_various_tresholds.png">
+</p>
+
+result: currently wip object tracking of object tracking
+<p align="center" width="100%">
+    <img width="75%" src="img/wip_object_tracking.png">
 </p>
 
 #### Application
 
 
 #### Tech and Tools
-OpenCV
+OpenCV,

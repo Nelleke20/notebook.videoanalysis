@@ -3,3 +3,5 @@ venv
 *.names
 *.cfg
 *.weights
+notebooks/*.png
+.DS_Store

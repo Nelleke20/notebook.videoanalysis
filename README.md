@@ -7,8 +7,7 @@ WIP - trying to detect and track objects on an aerial video
 dec 2023
 
 #### Context
-WIP - video is from a soccer game and I aim to detect the players and the ball
-WIP - decided to do some analysis with a tennis match as well
+WIP - video's are from a tennis and soccer game and I aim to detect the players and the ball
 
 #### Results
 
@@ -27,13 +26,13 @@ gives a variety of detection
     <img width="75%" src="img/frame_detection_with_various_tresholds.png">
 </p>
 
-result: currently wip object tracking of object tracking
+result: current wip of the tennis object tracking
 <p align="center" width="100%">
     <img width="75%" src="img/wip_object_tracking.png">
 </p>
 
 #### Application
-
+to do: streamlit app
 
 #### Tech and Tools
 OpenCV,
